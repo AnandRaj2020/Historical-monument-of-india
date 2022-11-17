@@ -1,0 +1,29 @@
+.maindiv{
+    
+
+    background-image: linear-gradient(120deg,rgb(229, 34, 34),rgb(242, 248, 242),rgb(57, 237, 69));
+        text-align: center;
+        padding: 25px;
+        width: 100%;
+    }
+    
+    
+    
+    
+    
+    body{
+        background-color: rgb(114, 198, 182);
+    }
+
+
+    .maindiv1{
+    
+
+        background-color: rgb(163, 195, 21);
+            text-align: center;
+            padding: 30px;
+            
+            margin: bottom 0px;;
+        }
+    
+    
